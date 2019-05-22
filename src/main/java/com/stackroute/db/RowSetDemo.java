@@ -44,8 +44,3 @@
 //
 
 
-
-
-
-  //demo of disconnected rowset
-
